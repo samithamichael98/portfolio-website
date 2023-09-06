@@ -51,6 +51,7 @@ section {
 .project {
     margin-bottom: 20px;
     font-weight: bold;
+    font-family: 'Courier New', Courier, monospace;
 }
 
 .project img {
