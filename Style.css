@@ -51,6 +51,7 @@ section {
 .project {
     margin-bottom: 20px;
     font-weight: bold;
+    font-family: 'Courier New', Courier, monospace;
 }
 
 .project img {
@@ -86,6 +87,6 @@ form button {
 footer {
     text-align: center;
     padding: 10px 0;
-    background-color: #333;
+    background-color:burlywood;
     color: #fff;
 }
